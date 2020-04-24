@@ -1,0 +1,12 @@
+[18-Jan-2020 13:51:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'lawcompanioncbt_feranmi'@'server1.lawcompanionvps.website' (using password: YES) in /home/lawcompanioncbt/public_html/admin/utilities/config.php on line 8
+[18-Jan-2020 13:51:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/lawcompanioncbt/public_html/admin/utilities/login.inc.php on line 9
+[18-Jan-2020 13:51:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/lawcompanioncbt/public_html/admin/utilities/login.inc.php on line 10
+[18-Jan-2020 13:59:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'lawcompanioncbt_feranmi'@'server1.lawcompanionvps.website' (using password: YES) in /home/lawcompanioncbt/public_html/admin/utilities/config.php on line 8
+[18-Jan-2020 13:59:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/lawcompanioncbt/public_html/admin/utilities/login.inc.php on line 9
+[18-Jan-2020 13:59:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/lawcompanioncbt/public_html/admin/utilities/login.inc.php on line 10
+[18-Jan-2020 14:00:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'lawcompanioncbt_feranmi'@'server1.lawcompanionvps.website' (using password: YES) in /home/lawcompanioncbt/public_html/admin/utilities/config.php on line 8
+[18-Jan-2020 14:00:17 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/lawcompanioncbt/public_html/admin/utilities/login.inc.php on line 9
+[18-Jan-2020 14:00:17 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/lawcompanioncbt/public_html/admin/utilities/login.inc.php on line 10
+[18-Jan-2020 14:00:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'lawcompanioncbt_feranmi'@'server1.lawcompanionvps.website' (using password: YES) in /home/lawcompanioncbt/public_html/admin/utilities/config.php on line 8
+[18-Jan-2020 14:00:22 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/lawcompanioncbt/public_html/admin/utilities/login.inc.php on line 9
+[18-Jan-2020 14:00:22 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/lawcompanioncbt/public_html/admin/utilities/login.inc.php on line 10
